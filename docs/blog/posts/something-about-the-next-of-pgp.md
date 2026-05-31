@@ -1,7 +1,7 @@
 ---
 slug: something-about-the-next-of-pgp
 date: 2026-05-31
-draft: true
+draft: false
 categories:
     - 安全
 authors: 
