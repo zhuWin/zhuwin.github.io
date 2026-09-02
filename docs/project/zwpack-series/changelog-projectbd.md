@@ -1,6 +1,51 @@
-# 更新日志 - 杼榅材质 PROJECT BD
+# 更新日志 - 戊边漫划 PROJECT BD
 
 ## v11.x: CALMiRA Arbor ==Preview==
+### v11.0.260902: CALMiRA Arbor Pre#4
+该版本开始启用中文名称“戊边漫划”，结束"PROJECT ZWPACK 杼榅材质”宽泛代指该特定项目引发的误会。“杼榅材质”将延伸所有由 Mizukoud 杼榅推出的纹理包/资源包系列。
+
+该版本为预发布版本，请参见 todo.txt 获取接下来的安排。
+
+本次更新保留了部分计划移除的废案内容作为演示使用，下一个 Preview/RC 移除。
+
+正在筹备该项目相关的总体介绍文章，敬请期待。
+
+CALMiRA Arbor Pre#4
+1. 【new】【版本兼容性】【纹理级支持】1.21.11 级别，附加 26.3 杨木木板和新 Realms 宣传页适配
+2. 【new】【版本兼容性】【可用级支持】26.3-pre-1：支持 26.1+ 实体文件名称格式；床，告示板，hanging 均已迁移26.2新格式；支持拆分后的月亮纹理
+3. 【new】【发光纹理】发光纹理，羊毛、矿石、沙石等方块，可通过 OptiFine 或 Continuity “自发光纹理” 使用。如果同时启用无限夜视（自定义色彩）效果可能不会很明显，可以在光影下尝试。
+4. 【new】【透视船】1.9+，灵感基于 xeadas-glass-bottom-boats
+5. 【new】【附魔效果】
+6. 【new】【杂项魔改】移除原版黑暗 vignette 效果
+7. 【new】【模组冲突修复】【群星&自定义天空】现在应该可以在安装有群星（Stellaris）模组时在地球上正常使用 Skyboxify 等自定义天空模组。
+8. 【new】【模组适配】【ViaFabricPlus】为新版本继续提供脚印和 1.8 前的船
+9. 【new】【模组适配】【Cleanroom】模组菜单适配
+10. 【new】【模组适配】【advancements_reloaded】UI 适配
+11. 【new】【模组适配】【cet_vocabulary】UI 适配
+12. 【new】【模组适配】【cloth-config2】UI 适配
+13. 【new】【模组适配】【screenshot_viewer】UI 适配
+14. 【new】【模组适配】【inventoryprofilesnext】交易！
+15. 【update】【服务器联动】【DoMCer】DoMCer Uview Refresh 2026，适配全新样式
+16. 【update】【UI元素】输入法候选框，输入框，拖拽条，复选框，定位条，好友界面等一系列最新最热原版 UI
+17. 【update】【攻速指示器】物品栏位置 1.9+攻击缓冲指示器 翻新
+18. 【update】【字体相关】OptiFine 第二套字体换用“舟方日明”
+19. 【update】【模组适配】【Fabric ModMenu】26.2+? 拆分 UI 适配
+20. 【update】【模组适配】【(Neo)Forge】NeoForge 与 Forge 区分，狐狸被铁砧砸扁了啦！！！！！
+21. 【update】【加载背景】更换
+22. 【update】【资源包语言】例行维护，更新过时条目
+23. 【update】【测试音效】更换
+24. 【update】【纹理】火把，发光鱿鱼微调
+25. 【fix】【方块纹理】灵魂营火呈现为普通营火
+26. 【fix】【实体纹理】1.21.4+ 岩浆怪纹理映射问题
+27. 【fix】【方块纹理】1.13+ 淡灰色羊毛未应用 Mizuki Blue RC 更改
+28. 【remove】杂项清理
+
+弃用功能：
+1. 【语言】:梗体中文 (zh_meme)
+2. 【服务器联动】【花雨庭】人走茶凉，花谢庭朽。不得不面对的现实是曾经国内小游戏服辉煌的时代早已逝去。
+3. 【服务器联动】【布吉岛】上个版本移除了吗？该版本尝试加入对布吉岛内思源黑体的修改，如果成功了请提醒我
+4. 【模组适配】【网易中国版特性】【语言】mc.chinaversion.xxx 字段
+
 ### v11.0.251125: CALMiRA Arbor Pre#3  
 
 ~~（是Calmira，不是Caerula）~~
